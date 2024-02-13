@@ -1,0 +1,26 @@
+_repo: Le-gardien-du-feu_72867
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Braz, Anatole le
+    gutenberg_agent_id: '56841'
+    url: http://www.gutenberg.org/2009/agents/56841
+description: ''
+gutenberg_issued: '2024-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72867'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=mdp.39015033403992
+pgterms:marc905: 20240128072708lebraz
+pgterms:marc906: '1900'
+production_note: Laurent Vogel (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $bCalmann-Lévy, $c1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Le gardien du feu
+url: http://www.gutenberg.org/ebooks/72867
