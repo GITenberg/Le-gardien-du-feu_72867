@@ -1,11 +1,16 @@
 _repo: Le-gardien-du-feu_72867
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72867-h/images/cover.jpg
 creator:
   author:
     agent_name: Braz, Anatole le
     gutenberg_agent_id: '56841'
     url: http://www.gutenberg.org/2009/agents/56841
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72867#Le-gardien-du-feu
 gutenberg_issued: '2024-02-03'
 gutenberg_type: Text
 identifiers:
